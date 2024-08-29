@@ -1,6 +1,6 @@
 # DeepH-hybrid
 
-This code provides an implementation of the DeepH-hybrid method described in the paper _Efficient hybrid density functional calculation by deep learning_ ([arXiv:2302.08221](https://arxiv.org/abs/2302.08221)).
+This code provides an implementation of the DeepH-hybrid method described in the paper _A deep equivariant neural network approach for efficient hybrid density functional calculations_ ([arXiv:2302.08221](https://arxiv.org/abs/2302.08221)).
 
 DeepH-hybrid is built upon DeepH series of Deep-learning Hamiltonians. The case studies in DeepH-hybrid is carried out with [DeepH-E3](https://github.com/Xiaoxun-Gong/DeepH-E3), but may also be integrated with [DeepH-pack](https://github.com/mzjb/DeepH-pack). The current code contains only the newly included code of DeepH-hybrid, including a brief demo for these parts.
 
